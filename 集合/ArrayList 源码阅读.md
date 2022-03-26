@@ -2,7 +2,7 @@
 
 ## ArrayList 简介
 
-ArrayList 底层数据结构是可变大小的数组，继承自`AbstactList`实现 `List`、`RandomAccess`、`Cloneable`、**`Java.io.Serializable`**接口。
+ArrayList 底层数据结构是可变大小的数组，继承自`AbstactList`实现 `List`、`RandomAccess`、`Cloneable`、`Java.io.Serializable`接口。
 
 ## ArrayList 的实现
 
