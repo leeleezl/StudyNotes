@@ -1,4 +1,4 @@
-# 🌰My Java study notes
+# 🌰My study notes
 
 🙊 **集合**
 
