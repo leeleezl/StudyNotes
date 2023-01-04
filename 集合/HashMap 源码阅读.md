@@ -109,7 +109,7 @@ HashMap 对外只提供put() 方法用于添加元素，put() 方法内部调用
 1. 如果定位到的数组位置没有元素就直接插入
 2. 如果定位到的数组位置有元素就和要插入的 key 作比较，如果 key 相同就直接覆盖，如果 key 不同，就判断p是否为一个树节点，如果是就调用`e = ((TreeNode<K,V>)p).putTreeVal(this, tab, hash, key, value)`将元素添加进入，如果是链表节点，则遍历到链表尾部插入。
 
-![](img\put流程.png)
+![](https://github.com/leeleezl/StudyNotes/blob/main/%E9%9B%86%E5%90%88/img/put%E6%B5%81%E7%A8%8B.png)
 
 ```Java
 public V put(K key, V value) {
