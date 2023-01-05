@@ -15,4 +15,7 @@
 - [Lab1: MapReduce](https://github.com/leeleezl/MIT-6.824-Lab/blob/master/Notes/%E5%AE%9E%E9%AA%8C-Lab1-MapReduce.md)
 - [Lab2A: Raft Leader选举](https://github.com/leeleezl/MIT-6.824-Lab/blob/master/Notes/%E5%AE%9E%E9%AA%8C-%20Lab2A-Raft%20%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%89%E4%B8%BE.md)
 
-🙉 [Leetcode algorithm study](https://github.com/leeleezl/LeetCode-algorithm)
+🙉 Leetcode algorithm study
+- 双指针
+	- [链表中使用双指针](https://github.com/leeleezl/LeetCode-algorithm/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/%E9%93%BE%E8%A1%A8.md)
+	- [数组中使用双指针](https://github.com/leeleezl/LeetCode-algorithm/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/%E6%95%B0%E7%BB%84.md)
