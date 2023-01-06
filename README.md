@@ -19,3 +19,5 @@
 - 双指针
 	- [链表中使用双指针](https://github.com/leeleezl/LeetCode-algorithm/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/%E9%93%BE%E8%A1%A8.md)
 	- [数组中使用双指针](https://github.com/leeleezl/LeetCode-algorithm/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/%E6%95%B0%E7%BB%84.md)
+- 数据结构
+	- [二叉树](https://github.com/leeleezl/LeetCode-algorithm/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E4%BA%8C%E5%8F%89%E6%A0%91.md)
