@@ -16,6 +16,8 @@
 - [Lab2A: Raft Leader选举](https://github.com/leeleezl/MIT-6.824-Lab/blob/master/Notes/%E5%AE%9E%E9%AA%8C-%20Lab2A-Raft%20%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%89%E4%B8%BE.md)
 
 🐒 Kubernetes
+- [Kubernetes 组件](https://github.com/leeleezl/StudyNotes/blob/main/K8s/Kubernetes%20%E7%BB%84%E4%BB%B6.md)
+- [Kubernetes--Pod](https://github.com/leeleezl/StudyNotes/blob/main/K8s/Kubernetes--Pod.md)
 
 🙉 Leetcode algorithm study
 - 双指针
